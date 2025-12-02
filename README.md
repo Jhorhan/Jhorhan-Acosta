@@ -50,7 +50,7 @@ Sistema para agilizar contratación, validar documentos y gestionar candidatos.
 
 Portafolio
 
-Mi Portafolio Completo (Notion): (añade tu link aquí)
+Mi Portafolio Completo :https://www.notion.so/Jhorhan-Andres-Acosta-Developer-Automation-2bc6cb52e67f802092abd5ce44ac6c7a 
 
 Contacto
 
