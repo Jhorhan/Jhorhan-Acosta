@@ -54,6 +54,7 @@ Mi Portafolio Completo (Notion): (añade tu link aquí)
 
 Contacto
 
-LinkedIn: (tu URL)
-GitHub: github.com/jhorhanacosta
+LinkedIn: www.linkedin.com/in/jhorhan-andrés-acosta-5601962b6
+Contacto: +573135739201
 Email: acostajhorhan@gmail.com
+
